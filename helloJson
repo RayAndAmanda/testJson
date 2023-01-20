@@ -1,0 +1,31 @@
+{
+    "peoples":{
+        "zhangsan":{
+            "sex":"man",
+            "job":"farmer",
+            "height":"156cm"
+        },
+        "lisi":{
+            "sex":"man",
+            "job":"teacher",
+            "height":"156cm"
+        },
+        "wangwu":{
+            "sex":"man",
+            "job":"student",
+            "height":"156cm"
+        }
+        
+    },
+    "cats":{
+        "cat1":{
+            "quato":"zheshimaomao"
+        },
+        "cat2":{
+            "quato":"zheshimaomao"
+        },
+        "cat3":{
+            "quato":"zheshimaomao"
+        }
+    }
+}
